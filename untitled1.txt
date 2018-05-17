@@ -1,0 +1,33 @@
+# -*- coding: utf-8 -*-
+"""
+Created on Wed May 16 15:08:08 2018
+
+@author: john3
+"""
+
+Overall Goal: Identify if drugs mentioned in FDA offpatentofflabel mentioned in raredisease treatment section
+(if treatment section exists)
+
+Step 1: Scoop necessary info from the .csv file (made and edited from a .pdf table so might hvae a few oddities)
+--> The scooped info is the drugs that are off patent off label in col1 of the table
+Step2: Store scooped info in list for later iteration
+
+
+Step3: Develop web scrapper that does the following
+-> A: Goes through all diseases in rarediseases.info.nih.gov/diseases
+-> B: Determines if each disease has a treatment section
+-> C: If it has a treatment section extracts the information from the treatment section
+     ---> This extracted info is then tagged in a dic label with disease name
+     -----> Stored in new/separate file?
+
+Step 4:Each value from the 
+
+
+Step Something: Collect all urls dictagged to all diseases
+
+
+i have urls linked with names for disease
+->custom url based on link
+-->specific disease based on link
+--->yes or no "treatment" based on program
+----> export file type based upon yes or no
