@@ -9,8 +9,6 @@ import csv
 
 import requests
 
-#prototype for 18MayTest
-
 rarediseaseurl=requests.get("https://rarediseases.info.nih.gov/diseases/browse-by-first-letter/C")
 soup=bs.BeautifulSoup(rarediseaseurl.text, "lxml")
 

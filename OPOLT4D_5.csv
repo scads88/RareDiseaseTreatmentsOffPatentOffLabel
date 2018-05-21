@@ -1,0 +1,377 @@
+,Disease Name,Potential OPOE Treatment
+1,Acquired amegakaryocytic thrombocytopenia^1,cyclosporine
+2,Acanthoma^2,fluorouracil
+3,Idiopathic achalasia^3,isosorbide dinitrate
+4,Methylmalonic acidemia^4,amino acids
+5,Methylmalonic acidemia^5,amino acids
+6,Methylmalonic acidemia^6,amino acids
+7,Methylmalonic acidemia^7,amino acids
+8,Methylmalonic acidemia^8,amino acids
+9,Methylmalonic acidemia^9,amino acids
+10,Methylmalonic acidemia^10,amino acids
+11,Methylmalonic acidemia^11,amino acids
+12,Methylmalonic acidemia^12,amino acids
+13,Methylmalonic acidemia^13,amino acids
+14,Methylmalonic acidemia^14,amino acids
+15,Hidradenitis suppurativa^15,methotrexate
+16,Hidradenitis suppurativa^16,tretinoin
+17,Hidradenitis suppurativa^17,tretinoin
+18,Epidermolysis bullosa acquisita^18,cyclophosphamide
+19,Epidermolysis bullosa acquisita^19,dapsone
+20,SAPHO syndrome^20,Methotrexate
+21,Spastic paraplegia 4^21,baclofen
+22,Spastic paraplegia 11^22,baclofen
+23,Troyer syndrome^23,baclofen
+24,Lymphatic filariasis^24,albendazole
+25,Bartter syndrome^25,indomethacin
+26,Nevoid basal cell carcinoma syndrome^26,tretinoin
+27,Nevoid basal cell carcinoma syndrome^27,tretinoin
+28,Baylisascaris infection^28,Albendazole
+29,Hailey-Hailey disease^29,dapsone
+30,Hailey-Hailey disease^30,tretinoin
+31,Hailey-Hailey disease^31,erythromycin
+32,Hailey-Hailey disease^32,erythromycin
+33,Hailey-Hailey disease^33,tretinoin
+34,Lymphocytic infiltrate of Jessner^34,auranofin
+35,Lymphocytic infiltrate of Jessner^35,methotrexate
+36,Tylosis with esophageal cancer^36,tretinoin
+37,Tylosis with esophageal cancer^37,tretinoin
+38,Birdshot chorioretinopathy^38,cyclosporine
+39,"Blepharophimosis, ptosis, and epicanthus inversus syndrome type 1^39",progesterone
+40,"Blepharophimosis, ptosis, and epicanthus inversus syndrome type 1^40",testosterone
+41,"Blepharophimosis, ptosis, and epicanthus inversus syndrome type 1^41",testosterone
+42,Bronchiolitis obliterans organizing pneumonia^42,cyclophosphamide
+43,Bronchiolitis obliterans organizing pneumonia^43,erythromycin
+44,Bronchiolitis obliterans organizing pneumonia^44,erythromycin
+45,Punctate palmoplantar keratoderma type I^45,fluorouracil
+46,Pseudopelade of Brocq^46,tretinoin
+47,Pseudopelade of Brocq^47,tretinoin
+48,Dermatitis herpetiformis^48,dapsone
+49,Buerger disease^49,nicotine
+50,Buerger disease^50,nicotine
+51,Buerger disease^51,Iloprost
+52,CREST syndrome^52,cyclosporine
+53,CREST syndrome^53,nicotine
+54,CREST syndrome^54,nitroglycerin
+55,CREST syndrome^55,nitroglycerin
+56,CREST syndrome^56,penicillamine
+57,CREST syndrome^57,penicillamine
+58,CREST syndrome^58,progesterone
+59,CREST syndrome^59,nicotine
+60,CREST syndrome^60,nitroglycerin
+61,Chondrocalcinosis 2^61,aspirin
+62,Cowden syndrome^62,fluorouracil
+63,Guanidinoacetate methyltransferase deficiency^63,amino acids
+64,Guanidinoacetate methyltransferase deficiency^64,amino acids
+65,Guanidinoacetate methyltransferase deficiency^65,amino acids
+66,Guanidinoacetate methyltransferase deficiency^66,amino acids
+67,Guanidinoacetate methyltransferase deficiency^67,amino acids
+68,Guanidinoacetate methyltransferase deficiency^68,amino acids
+69,Guanidinoacetate methyltransferase deficiency^69,amino acids
+70,Guanidinoacetate methyltransferase deficiency^70,amino acids
+71,Guanidinoacetate methyltransferase deficiency^71,amino acids
+72,Guanidinoacetate methyltransferase deficiency^72,amino acids
+73,Guanidinoacetate methyltransferase deficiency^73,amino acids
+74,Sneddon syndrome^74,aspirin
+75,Roussy Levy syndrome^75,Acetaminophen
+76,Cheilitis glandularis^76,fluorouracil
+77,Perniosis^77,nicotine
+78,Perniosis^78,nicotine
+79,Congenital chloride diarrhea^79,potassium chloride
+80,Congenital chloride diarrhea^80,potassium chloride
+81,Congenital chloride diarrhea^81,sodium chloride
+82,Congenital chloride diarrhea^82,sodium chloride
+83,Congenital chloride diarrhea^83,sodium chloride
+84,Congenital chloride diarrhea^84,sodium chloride
+85,Congenital chloride diarrhea^85,sodium chloride
+86,Congenital chloride diarrhea^86,talc
+87,Congenital chloride diarrhea^87,talc
+88,Relapsing polychondritis^88,cyclophosphamide
+89,Relapsing polychondritis^89,cyclosporine
+90,Relapsing polychondritis^90,dapsone
+91,Relapsing polychondritis^91,methotrexate
+92,Chronic recurrent multifocal osteomyelitis^92,methotrexate
+93,Schnitzler syndrome^93,Dapsone
+94,Creutzfeldt-Jakob disease^94,acyclovir
+95,Pili torti^95,tretinoin
+96,Pili torti^96,tretinoin
+97,Cold urticaria^97,Dapsone
+98,Collagenous colitis^98,aspirin
+99,Collagenous colitis^99,mesalamine
+100,Collagenous colitis^100,atropine
+101,Collagenous colitis^101,budesonide
+102,Linear porokeratosis^102,fluorouracil
+103,Menkes disease^103,copper
+104,Menkes disease^104,Penicillamine
+105,Menkes disease^105,Penicillamine
+106,Rheumatic Fever^106,aspirin
+107,Nephrogenic diabetes insipidus^107,indomethacin
+108,Nephrogenic diabetes insipidus^108,chlorothiazide
+109,Stevens-Johnson syndrome^109,cyclosporine
+110,Doyne honeycomb retinal dystrophy^110,verteporfin
+111,Diffuse dermal angiomatosis^111,tretinoin
+112,Diffuse dermal angiomatosis^112,tretinoin
+113,Diffuse idiopathic skeletal hyperostosis^113,acetaminophen
+114,Diffuse panbronchiolitis^114,erythromycin
+115,Diffuse panbronchiolitis^115,erythromycin
+116,Diffuse panbronchiolitis^116,Erythromycin
+117,Diffuse panbronchiolitis^117,Erythromycin
+118,Dihydrolipoamide dehydrogenase deficiency^118,amino acids
+119,Dihydrolipoamide dehydrogenase deficiency^119,amino acids
+120,Dihydrolipoamide dehydrogenase deficiency^120,amino acids
+121,Dihydrolipoamide dehydrogenase deficiency^121,amino acids
+122,Dihydrolipoamide dehydrogenase deficiency^122,amino acids
+123,Dihydrolipoamide dehydrogenase deficiency^123,amino acids
+124,Dihydrolipoamide dehydrogenase deficiency^124,amino acids
+125,Dihydrolipoamide dehydrogenase deficiency^125,amino acids
+126,Dihydrolipoamide dehydrogenase deficiency^126,amino acids
+127,Dihydrolipoamide dehydrogenase deficiency^127,amino acids
+128,Dihydrolipoamide dehydrogenase deficiency^128,amino acids
+129,Myotonic dystrophy type 2^129,Testosterone
+130,Myotonic dystrophy type 2^130,Testosterone
+131,Dowling-Degos disease^131,tretinoin
+132,Dowling-Degos disease^132,tretinoin
+133,Myotonic dystrophy^133,Testosterone
+134,Myotonic dystrophy^134,Testosterone
+135,Eales disease^135,cyclosporine
+136,Eosinophilic fasciitis^136,methotrexate
+137,Eosinophilic fasciitis^137,penicillamine
+138,Eosinophilic fasciitis^138,penicillamine
+139,Extramammary Paget disease^139,docetaxel
+140,Extramammary Paget disease^140,docetaxel
+141,Extramammary Paget disease^141,docetaxel
+142,Extramammary Paget disease^142,fluorouracil
+143,Eosinophilic cystitis^143,aspirin
+144,Eosinophilic cystitis^144,cyclosporine
+145,Eosinophilic enteropathy^145,amino acids
+146,Eosinophilic enteropathy^146,amino acids
+147,Eosinophilic enteropathy^147,amino acids
+148,Eosinophilic enteropathy^148,amino acids
+149,Eosinophilic enteropathy^149,amino acids
+150,Eosinophilic enteropathy^150,amino acids
+151,Eosinophilic enteropathy^151,amino acids
+152,Eosinophilic enteropathy^152,amino acids
+153,Eosinophilic enteropathy^153,amino acids
+154,Eosinophilic enteropathy^154,amino acids
+155,Eosinophilic enteropathy^155,amino acids
+156,Eosinophilic enteropathy^156,Amino acids
+157,Eosinophilic enteropathy^157,Amino acids
+158,Eosinophilic enteropathy^158,Amino acids
+159,Eosinophilic enteropathy^159,Amino acids
+160,Eosinophilic enteropathy^160,Amino acids
+161,Eosinophilic enteropathy^161,Amino acids
+162,Eosinophilic enteropathy^162,Amino acids
+163,Eosinophilic enteropathy^163,Amino acids
+164,Eosinophilic enteropathy^164,Amino acids
+165,Eosinophilic enteropathy^165,Amino acids
+166,Eosinophilic enteropathy^166,Amino acids
+167,Eosinophilic pustular folliculitis^167,dapsone
+168,Eosinophilic pustular folliculitis^168,indomethacin
+169,Eosinophilic pustular folliculitis^169,nicotine
+170,Eosinophilic pustular folliculitis^170,tretinoin
+171,Eosinophilic pustular folliculitis^171,nicotine
+172,Eosinophilic pustular folliculitis^172,tretinoin
+173,Erythema elevatum diutinum^173,Dapsone
+174,Erythromelalgia^174,aspirin
+175,Erythromelalgia^175,cyclosporine
+176,Essential thrombocythemia^176,aspirin
+177,Essential thrombocythemia^177,hydroxyurea
+178,Essential thrombocythemia^178,Aspirin
+179,Essential thrombocythemia^179,Hydroxyurea
+180,Hereditary hyperekplexia^180,diazepam
+181,Herpes zoster oticus^181,acyclovir
+182,Sjogren-Larsson syndrome^182,zileuton
+183,Tyrosinemia type 1^183,amino acids
+184,Tyrosinemia type 1^184,amino acids
+185,Tyrosinemia type 1^185,amino acids
+186,Tyrosinemia type 1^186,amino acids
+187,Tyrosinemia type 1^187,amino acids
+188,Tyrosinemia type 1^188,amino acids
+189,Tyrosinemia type 1^189,amino acids
+190,Tyrosinemia type 1^190,amino acids
+191,Tyrosinemia type 1^191,amino acids
+192,Tyrosinemia type 1^192,amino acids
+193,Tyrosinemia type 1^193,amino acids
+194,Tyrosinemia type 1^194,nitisinone
+195,Familial hypercholesterolemia^195,fenofibrate
+196,Hereditary leiomyomatosis and renal cell cancer^196,nitroglycerin
+197,Hereditary leiomyomatosis and renal cell cancer^197,nitroglycerin
+198,Hereditary leiomyomatosis and renal cell cancer^198,nitroglycerin
+199,Pulmonary arterial hypertension^199,bosentan
+200,Pulmonary arterial hypertension^200,iloprost
+201,Febrile Ulceronecrotic Mucha-Habermann disease^201,acyclovir
+202,Febrile Ulceronecrotic Mucha-Habermann disease^202,cyclosporine
+203,Febrile Ulceronecrotic Mucha-Habermann disease^203,dapsone
+204,Febrile Ulceronecrotic Mucha-Habermann disease^204,methotrexate
+205,Febrile Ulceronecrotic Mucha-Habermann disease^205,Acyclovir
+206,Febrile Ulceronecrotic Mucha-Habermann disease^206,Methotrexate
+207,Fetal and neonatal alloimmune thrombocytopenia^207,aspirin
+208,Trimethylaminuria^208,copper
+209,Lichen planopilaris^209,cyclosporine
+210,Lichen planopilaris^210,methotrexate
+211,Gamma heavy chain disease^211,chlorambucil
+212,Gamma heavy chain disease^212,cyclophosphamide
+213,Watermelon stomach^213,progesterone
+214,Granuloma annulare^214,cyclosporine
+215,Granuloma annulare^215,dapsone
+216,Granuloma annulare^216,tretinoin
+217,Granuloma annulare^217,tretinoin
+218,Primary angiitis of the central nervous system^218,cyclophosphamide
+219,Primary angiitis of the central nervous system^219,Methotrexate
+220,Granulomatous rosacea^220,azelaic acid
+221,Granulomatous rosacea^221,dapsone
+222,Granulomatous rosacea^222,metronidazole
+223,Granulomatous rosacea^223,tretinoin
+224,Granulomatous rosacea^224,erythromycin
+225,Granulomatous rosacea^225,erythromycin
+226,Granulomatous rosacea^226,tretinoin
+227,Granulomatous rosacea^227,Dapsone
+228,Grover's disease^228,tretinoin
+229,Grover's disease^229,tretinoin
+230,Guttate psoriasis^230,cyclosporine
+231,Guttate psoriasis^231,methotrexate
+232,Hypomyelination with atrophy of basal ganglia and cerebellum^232,diazepam
+233,Hypomyelination with atrophy of basal ganglia and cerebellum^233,baclofen
+234,Pantothenate kinase-associated neurodegeneration^234,baclofen
+235,Hashimoto's encephalitis^235,cyclophosphamide
+236,Sickle beta thalassemia^236,Hydroxyurea
+237,Progressive hemifacial atrophy^237,Cyclophosphamide
+238,Progressive hemifacial atrophy^238,Methotrexate
+239,Wilson disease^239,copper
+240,"Hereditary endotheliopathy, retinopathy, nephropathy, and stroke^240",aspirin
+241,Hereditary hemorrhagic telangiectasia^241,aspirin
+242,Hypereosinophilic syndrome^242,hydroxyurea
+243,Progeria^243,Nitroglycerin
+244,Progeria^244,Nitroglycerin
+245,Progeria^245,Nitroglycerin
+246,X-linked hypophosphatemia^246,calcitriol
+247,X-linked hypophosphatemia^247,Calcitriol
+248,Lipoid proteinosis of Urbach and Wiethe^248,penicillamine
+249,Lipoid proteinosis of Urbach and Wiethe^249,penicillamine
+250,Alkaptonuria^250,amino acids
+251,Alkaptonuria^251,amino acids
+252,Alkaptonuria^252,amino acids
+253,Alkaptonuria^253,amino acids
+254,Alkaptonuria^254,amino acids
+255,Alkaptonuria^255,amino acids
+256,Alkaptonuria^256,amino acids
+257,Alkaptonuria^257,amino acids
+258,Alkaptonuria^258,amino acids
+259,Alkaptonuria^259,amino acids
+260,Alkaptonuria^260,amino acids
+261,Osteopetrosis^261,calcitriol
+262,Schimke immunoosseous dysplasia^262,Acyclovir
+263,Pars planitis^263,aspirin
+264,Pars planitis^264,methotrexate
+265,Kawasaki disease^265,Aspirin
+266,Klinefelter syndrome^266,testosterone
+267,Klinefelter syndrome^267,testosterone
+268,Klinefelter syndrome^268,Testosterone
+269,Klinefelter syndrome^269,Testosterone
+270,Lichen planus pigmentosus^270,Dapsone
+271,Limbic encephalitis^271,cyclophosphamide
+272,Tardive dyskinesia^272,clozapine
+273,Livedoid vasculopathy^273,aspirin
+274,Livedoid vasculopathy^274,Iloprost
+275,Pustulosis palmaris et plantaris^275,cyclosporine
+276,Nocardiosis^276,linezolid
+277,Nocardiosis^277,meropenem
+278,Nocardiosis^278,Linezolid
+279,Lymphomatoid papulosis^279,cyclophosphamide
+280,Lymphomatoid papulosis^280,methotrexate
+281,Lymphomatoid papulosis^281,carmustine
+282,Lymphomatoid papulosis^282,carmustine
+283,Lymphomatoid papulosis^283,Chlorambucil
+284,Lymphomatoid papulosis^284,Dapsone
+285,Alopecia universalis^285,cyclosporine
+286,Meningioma^286,hydroxyurea
+287,MTHFR gene variant^287,fenofibrate
+288,MTHFR gene variant^288,methotrexate
+289,Microscopic polyangiitis^289,cyclophosphamide
+290,Microscopic polyangiitis^290,methotrexate
+291,Multifocal motor neuropathy^291,cyclophosphamide
+292,Stiff person syndrome^292,diazepam
+293,Stiff person syndrome^293,baclofen
+294,Stiff person syndrome^294,Baclofen
+295,Morphea^295,methotrexate
+296,Moyamoya disease^296,aspirin
+297,Multicentric reticulohistiocytosis^297,aspirin
+298,Multicentric reticulohistiocytosis^298,chlorambucil
+299,Multicentric reticulohistiocytosis^299,cyclophosphamide
+300,Multicentric reticulohistiocytosis^300,methotrexate
+301,Multifocal choroiditis^301,cyclosporine
+302,Steatocystoma multiplex^302,tretinoin
+303,Steatocystoma multiplex^303,tretinoin
+304,Nodular nonsuppurative panniculitis^304,cyclophosphamide
+305,Ocular toxoplasmosis^305,pyrimethamine
+306,Oncogenic osteomalacia^306,calcitriol
+307,Oral lichen planus^307,tretinoin
+308,Oral lichen planus^308,chlorothiazide
+309,Oral lichen planus^309,tretinoin
+310,Oral lichen planus^310,Cyclophosphamide
+311,Oral lichen planus^311,Dapsone
+312,Oral lichen planus^312,Metronidazole
+313,Ovarian small cell carcinoma^313,cyclophosphamide
+314,Polyarteritis nodosa^314,cyclophosphamide
+315,Pelizaeus-Merzbacher disease^315,diazepam
+316,Pelizaeus-Merzbacher disease^316,baclofen
+317,Pemphigus^317,cyclophosphamide
+318,Pemphigus^318,cyclosporine
+319,Pemphigus^319,methotrexate
+320,Pemphigus vulgaris^320,dapsone
+321,Pemphigus vulgaris^321,methotrexate
+322,Pityriasis rubra pilaris^322,cyclosporine
+323,Pityriasis rubra pilaris^323,tazarotene
+324,Pityriasis rubra pilaris^324,tazarotene
+325,Pityriasis rubra pilaris^325,tretinoin
+326,Pityriasis rubra pilaris^326,tretinoin
+327,Pityriasis rubra pilaris^327,Methotrexate
+328,Platelet storage pool deficiency^328,aspirin
+329,Porokeratosis of Mibelli^329,fluorouracil
+330,Porokeratosis of Mibelli^330,tretinoin
+331,Porokeratosis of Mibelli^331,tretinoin
+332,Punctate porokeratosis^332,fluorouracil
+333,Punctate porokeratosis^333,tretinoin
+334,Punctate porokeratosis^334,tretinoin
+335,Sheehan syndrome^335,progesterone
+336,Susac syndrome^336,aspirin
+337,Susac syndrome^337,cyclophosphamide
+338,Richter syndrome^338,cytarabine
+339,Rumination disorder^339,baclofen
+340,Sarcoidosis^340,cyclophosphamide
+341,Sarcoidosis^341,methotrexate
+342,Scleroderma^342,cyclophosphamide
+343,Scleroderma^343,iloprost
+344,Scleroderma^344,methotrexate
+345,Scleroderma^345,Bosentan
+346,Superior limbic keratoconjunctivitis^346,Cyclosporine
+347,Sydenham's chorea^347,diazepam
+348,Trigeminal neuralgia^348,baclofen
+349,Transverse myelitis^349,aspirin
+350,Transverse myelitis^350,cyclophosphamide
+351,Transverse myelitis^351,methotrexate
+352,Vernal keratoconjunctivitis^352,lodoxamide tromethamine
+353,Vernal keratoconjunctivitis^353,tromethamine
+354,Visual snow syndrome^354,aspirin
+355,Xeroderma pigmentosum^355,fluorouracil
+356,Xeroderma pigmentosum^356,tretinoin
+357,Xeroderma pigmentosum^357,tretinoin
+358,"46, XY disorders of sexual development^358",testosterone
+359,"46, XY disorders of sexual development^359",testosterone
+360,Zika virus infection^360,acetaminophen
+361,Zika virus infection^361,Aspirin
+362,Goodpasture syndrome^362,cyclophosphamide
+363,Bell's palsy^363,acetaminophen
+364,Bell's palsy^364,acyclovir
+365,Bell's palsy^365,aspirin
+366,Autoimmune progesterone dermatitis^366,progesterone
+367,Autoimmune progesterone dermatitis^367,estradiol
+368,Autoimmune progesterone dermatitis^368,estradiol
+369,Autoimmune progesterone dermatitis^369,estradiol
+370,Autoimmune progesterone dermatitis^370,estradiol
+371,Autoimmune progesterone dermatitis^371,Progesterone
+372,Aplasia cutis congenita^372,silver sulfadiazine
+373,Nail-patella syndrome^373,aspirin
+374,Opsoclonus-myoclonus syndrome^374,cyclophosphamide
+375,Familial atrial fibrillation^375,aspirin
+376,Degos disease^376,aspirin
